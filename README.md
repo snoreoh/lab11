@@ -146,3 +146,4 @@ $ <C-B>"
 - [Libevent](http://libevent.org)
 - [Ncurses](http://invisible-island.net/ncurses/)
 
+Copyright (c) 2015-2021 The ISC Authors
